@@ -2,11 +2,9 @@
 
 Support SSH & GUI for ROS environment (Kinetic)
 
-
+<br/>
 
 ## Settings
-
-<br/>
 
 ### build.sh
 
@@ -35,5 +33,3 @@ Run the script in the following order:
 > sh inspection.sh # after should set up  attach_ssh.sh
 > sh attach.sh
 ```
-
-
