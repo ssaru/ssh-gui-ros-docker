@@ -22,7 +22,7 @@ set your user account and container ip that gotting from executing inspection.sh
 
 <br/>
 
-## Installation
+## Execution
 
 Run the script in the following order:
 
