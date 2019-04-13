@@ -4,7 +4,7 @@ Support SSH & GUI for ROS environment (Kinetic)
 
 
 
-## Set-up
+## Settings
 
 <br/>
 
